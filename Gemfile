@@ -14,6 +14,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'sass-rails', '~> 5.0', '>= 5.0.6'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+gem 'rubocop', '~> 0.49.1'
 
 group :development, :test do
   gem 'sqlite3', '~> 1.3', '>= 1.3.13'
